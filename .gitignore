@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.env
+.venv/
+env/
+venv/
+*.log
+database/chroma_db/
+database/*.db
+data/raw_documents/**/*.pdf
+data/raw_documents/**/*.PDF
+data/processed_documents/*.json
